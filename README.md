@@ -34,6 +34,6 @@ You set a maximum CPM (or "max CPM") bid as the highest amount that you're willi
 Ad position is the order in which your ad shows up on a page. For example, an ad position of "1" means that your ad is the first ad on a page. In general, it's good to have your ad appear higher on a page because it's likely that more customers will see your ad. Ads can appear on the top of a search results page, on the side of the page, or on the bottom of the page.
 
 [dataset2 - enron Email dataset](https://www.cs.cmu.edu/~./enron/) This data set contain 0.6M personal Emails of 150 individual . and i add my very own email collection to it. ;).
-here i have extract around 80,000 ignored emails from delete_items and more or less 0.55M Prioritized inbox-mail.
+here i have extract around 80,000 ignored emails from delete_items and more or less 0.55M Prioritized inbox-mails.
 
 
