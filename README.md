@@ -1,19 +1,19 @@
-# research_on_email_marketting
+# research_on_email_marketing
 Hi there..!
 This is my final year project work start on June 2015 and will be end around January 2016. so for my first commit i have deposit my early pre-processing works on text mining. and i let it public for review and guide . reviews are appreciated..!
 
-<b><i>Inroduction</i></b>
+<b><i>Introduction</i></b>
 For my subject line study, i try to use a different strategy . There are few researches made on "Creating a effective email subject line " to increasing the open rate.and also there are so effective too. like  <i>[MailChimp](http://kb.mailchimp.com/tag/subject+line)<i> analyzed the open rates for over 200 million emails. Open rates ranged from 93% to 0.5%. but I'm trying to do it in a different point of view .
     
    My goal is to develop a recommended system for <b>Email marketing</b>  perspective. Email marketing is directly marketing a commercial message to a group of people using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing.
-In marketing point of view the content should attract the customers. however considering email marketing the subject line is the first thing that attract a customer.among tens of emails daily we need to make sure a normal user open and read a particular marketing email. it's depending on many areas especially human physiology , localization , sentimental , number of characters, passage sequence and so on. therefore, behalf of analysing the open rate of normal email data i'm trying to match real world marketing advetisments sequnce data and personal email data. 
+In marketing point of view the content should attract the customers. however considering email marketing the subject line is the first thing that attract a customer.among tens of emails daily we need to make sure a normal user open and read a particular marketing email. it's depending on many areas especially human physiology , localization , sentimental , number of characters, passage sequence and so on. therefore, behalf of analyzing the open rate of normal email data I'm trying to match real world marketing advertisement sequence data and personal email data. 
 
-_<b>dataset</b>_
+_<b>data set</b>_
 
 <i>[dataset1-	open-advertising-dataset](https://code.google.com/p/open-advertising-dataset/)</i>
-This repositery contain more than 5000 advertisment sequnce extacted form 15000 website advertistments and clean all the redundenncies by using python script. 
-Especially this data set contain csv files of google [adwords bids deails](https://code.google.com/p/open-advertising-dataset/downloads/list) for UK and USA.set 
-youcan download the data set and open it in csv formart . here are some details that files contain.
+This repository contain more than 5000 advertisement sequence exacted form 15000 website advertisement and clean all the redundancies by using python script. 
+Especially this data set contain csv files of Google [ad-words bids details](https://code.google.com/p/open-advertising-dataset/downloads/list) for UK and USA.set 
+You can download the data set and open it in csv format . here are some details that files contain.
 #key words in csv files :
 
 <b>click-through rate(CRT)</b>
@@ -33,8 +33,7 @@ You set a maximum CPM (or "max CPM") bid as the highest amount that you're willi
 <b>Understanding ad position and Ad Rank(1 & 0)</b>
 Ad position is the order in which your ad shows up on a page. For example, an ad position of "1" means that your ad is the first ad on a page. In general, it's good to have your ad appear higher on a page because it's likely that more customers will see your ad. Ads can appear on the top of a search results page, on the side of the page, or on the bottom of the page.
 
-#[dataset2 - enron Email dataset](https://www.cs.cmu.edu/~./enron/)
-This dataset contain 0.6M personal Emails of 150 induviduals . and i add my very own email collection to it. ;).
-here i have extract around 80,000 ignored emails from delete_items and more or less 0.55M Preoritized inbox-mail.
+[dataset2 - enron Email dataset](https://www.cs.cmu.edu/~./enron/) This data set contain 0.6M personal Emails of 150 individual . and i add my very own email collection to it. ;).
+here i have extract around 80,000 ignored emails from delete_items and more or less 0.55M Prioritized inbox-mail.
 
 
