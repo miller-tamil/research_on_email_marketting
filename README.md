@@ -36,4 +36,18 @@ Ad position is the order in which your ad shows up on a page. For example, an ad
 [dataset2 - enron Email dataset](https://www.cs.cmu.edu/~./enron/) This data set contain 0.6M personal Emails of 150 individual . and i add my very own email collection to it. ;).
 here i have extract around 80,000 ignored emails from delete_items and more or less 0.55M Prioritized inbox-mails.
 
+By maping these datasets i'm trying to analys 
+1.Statistical Lexical Analysis
+2.Sequence Analysis 
+3.Sentimental Analysis
+4.Psychological Implications.
+
+and by overall conclusion looking forward to come up with a best recomender system .
+                                            
+                                                                    
+                                                                                    to be continue ...
+
+
+
+
 
