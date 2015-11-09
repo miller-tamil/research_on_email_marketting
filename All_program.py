@@ -10,4 +10,11 @@ for file in files:
         for sent in nltk.sent_tokenize(f.lower()):
             for word in nltk.word_tokenize(sent):
                 fd.inc(word)
+#python n-gram
+from nltk.util import ngrams
+sentence = 'this is a foo bar sentences and i want to ngramize it'
+n = 6
+sixgrams = ngrams(sentence.split(), n)
+for grams in sixgrams:
+  print grams
 
