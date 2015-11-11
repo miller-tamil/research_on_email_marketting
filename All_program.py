@@ -17,4 +17,7 @@ n = 6
 sixgrams = ngrams(sentence.split(), n)
 for grams in sixgrams:
   print grams
+  
+# my new reading material 
+http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6006/pdf/imm6006.pdf
 
