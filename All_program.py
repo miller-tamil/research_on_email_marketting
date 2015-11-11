@@ -21,3 +21,9 @@ for grams in sixgrams:
 # my new reading material 
 http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6006/pdf/imm6006.pdf
 
+#emotion dictionary created from 
+http://www.saifmohammad.com/Lexicons/NRC-Emotion-Lexicon-v0.92.zip
+
+#Sentiment dataset
+https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt
+
