@@ -27,3 +27,4 @@ http://www.saifmohammad.com/Lexicons/NRC-Emotion-Lexicon-v0.92.zip
 #Sentiment dataset
 https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt
 
+# Our sentiment dataset is 62.5% accuratly predict the data
