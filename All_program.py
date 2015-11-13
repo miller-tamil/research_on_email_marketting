@@ -28,3 +28,16 @@ http://www.saifmohammad.com/Lexicons/NRC-Emotion-Lexicon-v0.92.zip
 https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-en-165.txt
 
 # Our sentiment dataset is 62.5% accuratly predict the data
+
+#Mean Sentence Length analysis
+wordcounts = []
+with open('re3.txt') as f:
+    text = f.read()
+    sentences = text.split('\n')
+    for sentence in sentences:
+        words = sentence.split(' ')
+        wordcounts.append(len(words))
+average_wordcount = sum(wordcounts)/len(wordcounts)
+print("%6.2f %s" % (average_wordcount, "<== The mean sentance legnth analysis for the sample"))
+
+
