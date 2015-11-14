@@ -44,3 +44,5 @@ print("%6.2f %s" % (average_wordcount, "<== The mean sentance legnth analysis fo
 cat < file1.csv <(tail +2 file2.csv) <(tail +2 file3.csv) > bigfile.csv
 #or
 awk 'FNR > 1' file*.csv > bigfile.csv
+#or
+sed 1d sh*.csv > merged.csv
