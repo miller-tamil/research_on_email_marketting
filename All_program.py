@@ -40,4 +40,7 @@ with open('re3.txt') as f:
 average_wordcount = sum(wordcounts)/len(wordcounts)
 print("%6.2f %s" % (average_wordcount, "<== The mean sentance legnth analysis for the sample"))
 
-
+#multiple csv files in to one
+cat < file1.csv <(tail +2 file2.csv) <(tail +2 file3.csv) > bigfile.csv
+#or
+awk 'FNR > 1' file*.csv > bigfile.csv
