@@ -46,3 +46,9 @@ cat < file1.csv <(tail +2 file2.csv) <(tail +2 file3.csv) > bigfile.csv
 awk 'FNR > 1' file*.csv > bigfile.csv
 #or
 sed 1d sh*.csv > merged.csv
+
+#word splitter
+with open('words.txt','r') as f:
+    for line in f:
+        for word in line.split():
+           print(word) 
