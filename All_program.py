@@ -52,3 +52,6 @@ with open('words.txt','r') as f:
     for line in f:
         for word in line.split():
            print(word) 
+#spam mail collection
+http://csmining.org/index.php/enron-spam-datasets.html
+http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
