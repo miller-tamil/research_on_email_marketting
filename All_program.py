@@ -43,15 +43,7 @@ print("%6.2f %s" % (average_wordcount, "<== The mean sentance legnth analysis fo
 #multiple csv files in to one
 cat < file1.csv <(tail +2 file2.csv) <(tail +2 file3.csv) > bigfile.csv
 #or
-awk 'FNR > 1' file*.csv > bigfile.csv
-#or
-sed 1d sh*.csv > merged.csv
+awk 'FNR > 1' file*.csv > bigfile.csv 
 
-#word splitter
-with open('words.txt','r') as f:
-    for line in f:
-        for word in line.split():
-           print(word) 
-#spam mail collection
-http://csmining.org/index.php/enron-spam-datasets.html
-http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
+# empty line remove
+sed '/^\s*$/d'
