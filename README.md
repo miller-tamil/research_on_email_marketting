@@ -46,6 +46,52 @@ and by overall conclusion looking forward to come up with a best recomender syst
                                             
                                                                     
                                                                                     to be continue ...
+                                                                                    
+    Google adword dataset ...                                                                                
+Average position (Avg. Pos.)
+
+A statistic that describes how your ad typically ranks against other ads. This rank determines in which order ads appear on the page.
+
+The highest position is "1," and there is no "bottom" position. An average position of 1-8 is generally on the first page of search results, 9-16 is generally on the second page, and so on. Average positions can be between two whole numbers. For example, an average position of "1.7" means that your ad usually appears in positions 1 or 2.
+Your ad's rank can change, causing its position on the page to fluctuate as well, so your average position can give you an idea of how often your ad beats other ads for position. However, the most important thing is to find what's profitable for you, which might not be to show in the top position.
+Average position may be less useful in optimizing for performance on the Google Display Network because of the diversity of websites on this network. If you want to measure performance on the Display Network, we recommend focusing on metrics such as conversions and ROI.
+You can see an "Avg. Pos." column for your ads, campaigns, and other elements, but average position is generally most useful to look at for your keywords. By seeing how your ad typically ranks when it's triggered by one of your keywords, you can try to influence your position by changing the keyword's bid.
+
+Average cost-per-click (Avg. CPC)
+
+The average amount that you've been charged for a click on your ad. Average CPC is calculated by dividing the total cost of your clicks by the total number of clicks.
+
+For example, if your ad receives two clicks, one costing $0.20 and one costing $0.40, your average CPC for those clicks is $0.30.
+Average CPC is based on your actual CPCs (the actual amount you're charged for a click on your ad), which might be different than your maximum CPCs (the highest amount that you're willing to pay for a click).
+To see your average CPC amounts, look at the "Avg. CPC" column in one of the tables within your Campaigns tab.
+
+Clickthrough rate (CTR)
+
+A ratio showing how often people who see your ad end up clicking it. CTR can be used to gauge how well your keywords and ads are performing.
+
+CTR is the number of clicks that your ad receives divided by the number of times your ad is shown expressed as a percentage (clicks ÷ impressions = CTR).
+
+For example, if you had 5 clicks and 1000 impressions, then your CTR would be 0.5%. Here's how it's calculated:
+CTR calculation
+Each of your ads and keywords have their own CTRs that you can see listed in your account. Find them on your Campaigns tab
+A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's expected CTR (a component of Quality Score), which can affect your costs and ad position. Note that a good CTR is relative to what you're advertising and on which networks.
+You can use CTR to gauge which ads and keywords are successful for you and which need to be improved. The more your keywords and ads relate to each other and to your business, the more likely a user is to click on your ad after searching on your keyword phrase.
+
+Impressions: Definition
+
+How often your ad is shown. An impression is counted each time your ad is shown on a search result page or other site on the Google Network.
+
+Each time your ad appears on Google or the Google Network, it's counted as one impression.
+In some cases, only a section of your ad may be shown. For example, in Google Maps, we may show only your business name and location or only your business name and the first line of your ad text.
+However, when someone searches using Google Instant, an impression can be counted when one of these occur:
+Person begins to type and then clicks anywhere on the page like a search result, ad, or related search
+Person types a search and then clicks the "Search" button, presses Enter, or selects a predicted query from the drop-down menu
+Person stops typing, and the results are displayed for a minimum of three seconds
+You'll sometimes see the abbreviation "Impr" in your account showing the number of impressions for your ad.
+
+
+
+
 
 
 
