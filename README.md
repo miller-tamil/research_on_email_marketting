@@ -89,6 +89,9 @@ Person types a search and then clicks the "Search" button, presses Enter, or sel
 Person stops typing, and the results are displayed for a minimum of three seconds
 You'll sometimes see the abbreviation "Impr" in your account showing the number of impressions for your ad.
 
+*pre-processing in google adwords adword.
+
+First all the averege ad posion plays a major role . of course , the impresion of the ad should be seen by audiance. therefore , i have remove all the affected ads by removing it to avoid the partiallity. so i tryied stuff accourding to their posision separatly.
 
 
 
