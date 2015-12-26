@@ -50,3 +50,6 @@ sed '/^\s*$/d'
 
 #emotion ref
 chrome-extension://ecnphlgnajanjnkcmbpancdjoidceilk/http://arxiv.org/pdf/1205.4944.pdf
+
+#intensions ref
+https://repositories.lib.utexas.edu/handle/2152/18054
