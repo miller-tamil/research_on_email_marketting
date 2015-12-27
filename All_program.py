@@ -56,3 +56,5 @@ https://repositories.lib.utexas.edu/handle/2152/18054
 
 #best ref
 http://content.adestra.com/hubfs/2015_Reports_and_eGuides/2015_Subject_Line_Report.pdf
+# mmain ref
+http://www.academypublisher.com/jetwi/vol01/no1/jetwi01016076.pdf
