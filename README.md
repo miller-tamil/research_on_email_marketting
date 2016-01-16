@@ -93,7 +93,40 @@ You'll sometimes see the abbreviation "Impr" in your account showing the number 
 
 First all the averege ad posion plays a major role . of course , the impresion of the ad should be seen by audiance. therefore , i have remove all the affected ads by removing it to avoid the partiallity. so i tryied stuff accourding to their posision separatly.
 
+#Spam email subject line data.
+I manually collect 22384 spam email subject line form top 30 spamers of the world.
+gmail.com (2510)
+public.govdelivery.com (2078)
+google.com (1257)
+dnainfo.com (1099)
+mail.beliefnet.com (891)
+wordpress.com (730)
+e.adweek.com (727)
+r.groupon.com (722)
+email.v3.co.uk (697)
+popsugar.com (681)
+hubspot.com (675)
+twitter.com (657)
+writers-community.com (630)
+service.govdelivery.com (630)
+huffingtonpost.com (625)
+buzzfeed.com (611)
+insidermedia.com (596)
+e.moneyandmarkets.com (583)
+e.nymag.com (552)
+businessmanagementdaily.com (543)
+archant.co.uk (513)
+r.grouponmail.co.uk (510)
+parliament.uk (491)
+e.flightglobal.com (490)
+dailyecho.co.uk (471)
+theatlantic.com (455)
+news.magicfreebiesuk.co.uk (431)
+live.accountancyage.com (426)
+e.wineexpress.com (425)
+email1.secretsales.com (417)
 
+these are manually forward by peoples form alover the world. more reference http://www.spamdex.co.uk/
 
 
 
