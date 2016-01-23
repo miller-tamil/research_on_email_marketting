@@ -58,3 +58,27 @@ https://repositories.lib.utexas.edu/handle/2152/18054
 http://content.adestra.com/hubfs/2015_Reports_and_eGuides/2015_Subject_Line_Report.pdf
 # mmain ref
 http://www.academypublisher.com/jetwi/vol01/no1/jetwi01016076.pdf
+#to draw a paser tree in regersive 
+from textblob import TextBlob
+wiki = TextBlob(open('full.txt','rU').read())
+a=wiki.tags
+import nltk 
+sentence = a
+
+pattern = """NP: {<DT>?<JJ>*<NN>}
+VBD: {<VBD>}
+IN: {<IN>}"""
+NPChunker = nltk.RegexpParser(pattern) 
+result = NPChunker.parse(sentence)
+result.draw()
+
+# regresive array input for pos taging 
+from pattern.en import parse
+from pattern.en import pprint 
+
+with open('spam.txt', 'rU') as ins:
+    array = []
+    for line in ins:
+        array.append(line)
+for i in array:
+	pprint(parse(i, relations=True, lemmata=True))
