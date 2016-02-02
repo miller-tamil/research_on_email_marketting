@@ -82,3 +82,6 @@ with open('spam.txt', 'rU') as ins:
         array.append(line)
 for i in array:
 	pprint(parse(i, relations=True, lemmata=True))
+
+#new reference 
+https://www.academia.edu/11692120/Human_Intentions_Mining_Through_Natural_Language_Text_Survey
