@@ -85,3 +85,4 @@ for i in array:
 
 #new reference 
 https://www.academia.edu/11692120/Human_Intentions_Mining_Through_Natural_Language_Text_Survey
+# in lexical word list approch now the acurecy may less becuse of the equal wiehgt for all the data is a disadvaange. so i need to give appropriste value for the data
